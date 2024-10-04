@@ -1,71 +1,71 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Harry Potter',
+    'com quantos anos se entra em Hogwarts?',
+    '11 anos'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Harry Potter',
+    'qual é o nome completo do primo de Harry?',
+    'dudley dursley'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Harry Potter',
+    'qual é a plataforma do trem de hogwarts?',
+    '9 três quartos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'qual é o nome da atriz que interpreta a Hermione?',
+    'emma watson'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'Qual é o nome do ator que interpreta o Ron?',
+    'rupert grint'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'qual é o nome do ator que interpreta o Harry?',
+    'daniel radcliff'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'qual é a estasão que fica a plataforma 9 três quartos?',
+    'estação de kings cross'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'Qual é o nome da atriz que interpreta a belatrix lestrenge?',
+    'helena bohan carter'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    ' qual é o nome do ator que interpretou o severo snape?',
+    'alan rikman'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'de qual casa o professor flitwik era em hogwarts?',
+    'corvinal'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'quando Harry Potter nasceu?',
+    '31 de julho de 1980'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Harry Potter',
+    'qual é o nome do filho mais novo de Ron e Hermione?',
+    'hugo weasley granger'
 )
